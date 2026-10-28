@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LetMeShip is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://letmeship.com/
+LetMeShip provides a B2B shipping platform that simplifies multi‑carrier shipping, customs, and logistics for European businesses. Their Shipping API enables developers to integrate rate calculation, label generation, and shipment tracking across numerous carriers, supporting parcel, document, and pallet shipments both domestically and internationally.
+
+**Areas:** Shipping · Logistics · B2B · API · Europe
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://letmeship.com/)
+- [Documentation](https://www.letmeship.com/shipping-software/shipping-api/)
+- [API reference](https://www.letmeship.com/shipping-software/shipping-api/)
+- [Pricing](https://www.letmeship.com/pricing/)
+- [Support](https://www.letmeship.com/contact/)
+- [Blog](https://www.letmeship.com/blog/)
+- [Terms of service](https://www.letmeship.com/legal-notice/)
+- [Privacy policy](https://www.letmeship.com/privacy-policy/)
+- [GitHub](https://github.com/letmeship)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/letmeship/](https://apis.io/providers/letmeship/).
